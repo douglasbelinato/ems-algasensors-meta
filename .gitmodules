@@ -1,0 +1,10 @@
+[submodule "ms/device-management"]
+	branch = main
+	path = ms/device-management
+	url = git@github.com:douglasbelinato/ems-algasensors-device-management.git
+[submodule "ms/temperature-processing"]
+	path = ms/temperature-processing
+	url = git@github.com:douglasbelinato/ems-algasensors-temperature-processing.git
+[submodule "ms/temperature-monitoring"]
+	path = ms/temperature-monitoring
+	url = git@github.com:douglasbelinato/ems-algasensors-temperature-monitoring.git
